@@ -1,2 +1,2 @@
-# FirdtProject
+# FirstProject
 My first code project
